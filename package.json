@@ -1,0 +1,24 @@
+{
+  "name": "placement_cell",
+  "version": "1.0.0",
+  "description": "Placement cell backend project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sameer",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "fast-csv": "^4.3.6",
+    "fs": "^0.0.1-security",
+    "mongoose": "^6.8.3",
+    "nodemon": "^2.0.20",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0"
+  }
+}
